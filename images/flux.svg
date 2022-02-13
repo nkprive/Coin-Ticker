@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 0)">
+    <g id="Flux_white-blue" data-name="Flux white-blue" transform="translate(0 0)">
+      <path id="Path_81" data-name="Path 81" d="M30.2,0A30,30,0,1,1,8.856,8.717,30,30,0,0,1,30.2,0Z" transform="translate(0 0)" fill="#2b61d1"/>
+      <g id="Group_179" data-name="Group 179" transform="translate(12.984 10.191)">
+        <path id="Path_73" data-name="Path 73" d="M23.007,26.52l-3.576,2.032-7.681-4.43,3.495-2.032h.142Z" transform="translate(-2.098 11.376)" fill="#fff"/>
+        <path id="Path_74" data-name="Path 74" d="M41.644,15.6v4.165l-7.559-4.369-2.032-1.179-2.032,1.179L20.39,20.961,18.359,22.14v2.54L14.6,22.444l-2.032-1.179-2.032,1.179L7,24.456V15.6L24.312,5.62Z" transform="translate(-7 -5.62)" fill="#fff"/>
+        <path id="Path_75" data-name="Path 75" d="M33.812,17.727V28.842L24.2,34.389h0L14.59,28.842V17.727l9.631-5.547Z" transform="translate(0.832 1.149)" fill="#fff"/>
+        <path id="Path_76" data-name="Path 76" d="M18.094,18.84v6.4l-5.547,3.19L7,25.241v-6.4l5.527-3.19Z" transform="translate(-7 4.73)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

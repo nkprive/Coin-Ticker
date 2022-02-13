@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="782" height="782" viewBox="0 0 782 782">
+  <defs>
+    <linearGradient id="linear-gradient" y1="-0.001" x2="1" y2="-0.001" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b38c30"/>
+      <stop offset="1" stop-color="#f2de98"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-2338)">
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="391" cy="391" r="391" transform="translate(2338)" fill="#fff"/>
+    <path id="pirate-chain-arrr-logo" d="M390.819,0C174.931,0,0,174.931,0,390.819S174.931,781.638,390.819,781.638,781.638,606.708,781.638,390.819,606.708,0,390.819,0ZM214.4,289.792c0-48.305,39.16-87.192,87.778-87.192H502.437a87.353,87.353,0,0,1,61.241,25.051L461.206,279.2H320.12c-15.906,0-28.569,11.49-28.569,25.325v62.727l-76.874,40.059V289.792ZM589.316,420.287a87.174,87.174,0,0,1-87.192,87.192H291.278v74.529c0,12.663-9.419,22.98-20.635,25.638l-26.224.586H214.364v-129.6L314.8,426.227H483.561c15.906,0,29.155-11.49,29.155-25.638V323.95l76.561-38.574.039,134.911Z" transform="translate(2338)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
